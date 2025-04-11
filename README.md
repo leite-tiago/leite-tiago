@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leite-tiago&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leite-tiago&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tiago-leite-559511269/) 
@@ -52,21 +55,5 @@ Here are some ideas to get you started:
 
 ### 🛠️ Build Tools:
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-
 ---
-
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leite-tiago&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leite-tiago&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Stezsz/Stezsz/output/snake.svg" alt="Snake animation" />
-
-###
