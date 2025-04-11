@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tiago-leite-559511269/) 
 
-<h3>🎓 Certifications:</h3>
+## 🎓 Certifications:
   <a href="https://certificates.cs50.io/eecf17ea-654f-4870-9ce7-87a3551f11ef.pdf?size=letter">
     <img src="https://img.shields.io/badge/CS50x-00A4EF?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50x" />
   </a>
