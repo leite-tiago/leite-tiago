@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 
 ### 🛠️ Build Tools:
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
----
+
 <img src="https://raw.githubusercontent.com/Stezsz/Stezsz/output/snake.svg" alt="Snake animation" />
