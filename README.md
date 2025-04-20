@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tiago-leite-559511269/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-leite-559511269/) 
 
 ## 🎓 Certifications:
   <a href="https://certificates.cs50.io/eecf17ea-654f-4870-9ce7-87a3551f11ef.pdf?size=letter">
