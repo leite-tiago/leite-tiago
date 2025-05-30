@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Status](https://github.com/leite-tiago/leite-tiago/blob/main/profile-3d-contrib/profile-night-green.svg)
+<!-- ![Status](https://github.com/leite-tiago/leite-tiago/blob/main/profile-3d-contrib/profile-night-green.svg) -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leite-tiago&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
